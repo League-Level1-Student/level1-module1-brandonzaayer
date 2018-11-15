@@ -5,8 +5,10 @@ public class RaceCarRunner {
 		/* Do the following things without changing the RaceCar class */
 		
 		// 1. Create a RaceCar and place it in 5th position
-	
+	RaceCar Best=new RaceCar("HotWheels", 5);
 		// 2. Print the RaceCar's position in the race
+ Best.getPositionInRace();
+ System.out.println(getPositionInRace);
 
 		// 3. Crash the RaceCar
 		
